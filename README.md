@@ -9,7 +9,7 @@
   * `$ cd graffiticode`
   * `$ npm install`
 * Setup environment variable to point to remote Postgres database.
-  * `$ export DATABASE_URL_DEV="postgres://wlovjffqtabvgr:67d461087192e361c01318446450356e3b9f86b3411b4e9efd8f7900af1b52e6@ec2-23-21-171-25.compute-1.amazonaws.com:5432/dbs6stheh2q96c"`.
+  * ###
   * Make sure the following environment (export) variables are set:
     * `$ export DEBUG=true`
     * `$ export LOCAL_COMPILES=false`
